@@ -33,4 +33,4 @@
 
 # Folders
 bin/*
-!bin/.keep
+!bin/.gitkeep
